@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Hi, I'm Aariz Khan
-
 <img src="images/Aariz_Website.jpg" alt="Aariz Khan" width="200" style="border: 3px solid #159957; border-radius: 10px; display: block; margin: 0 auto 20px auto;">
 
 ## Data Analytics Enthusiast
