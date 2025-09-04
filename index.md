@@ -2,122 +2,114 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi, I'm Aariz Khan
 
-[Link to another page](./another-page.html).
+<img src="images/Aariz_Website.jpg" alt="Aariz Khan" width="200" style="border: 3px solid #159957; border-radius: 10px; display: block; margin: 0 auto 20px auto;">
 
-There should be whitespace between paragraphs.
+## Data Analytics Enthusiast
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Welcome to my GitHub Pages site! I'm passionate about data analytics, machine learning, and extracting insights from complex datasets.
 
-# Header 1
+## Featured Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Clustering Countries by Development Indicators
+**[View Repository](https://github.com/aarizkhandata/Clustering-Countries-Development-Indicators-)**
 
-## Header 2
+Analysis of global development patterns using clustering techniques to group countries based on socioeconomic indicators. This project explores how different nations compare across various development metrics.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
+- **Techniques:** K-Means Clustering, Data Preprocessing, Statistical Analysis
 
-### Header 3
+### Metro Fuel Analysis
+**[View Repository](https://github.com/aarizkhandata/metro-fuel-analysis)**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Comprehensive analysis of metropolitan fuel consumption patterns and pricing trends. This project examines fuel usage across different urban areas to identify patterns and insights.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Tools Used:** Python, Data Visualization, Statistical Analysis
+- **Focus Areas:** Urban Analytics, Energy Consumption, Price Analysis
 
-#### Header 4
+### F1 Racing Prediction using Physics-Informed ML
+**[View Repository](https://github.com/aarizkhandata/F1-Racing-Prediction-Project-Plan-using-Physics-Informed-Machine-Learning)**
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+An innovative approach to Formula 1 race prediction by combining traditional machine learning with physics-informed models. This project integrates racing physics with data-driven predictions.
 
-##### Header 5
+- **Tools Used:** Machine Learning, Physics-Based Modeling
+- **Innovation:** Physics-Informed Neural Networks (PINNs)
+- **Domain:** Sports Analytics, Predictive Modeling
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Achievements
 
-###### Header 6
+### Professional Achievements
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### Academic Excellence Award (2023–24)
+<img src="images/TYBA_Academic Topper.jpg" alt="Academic Excellence Award (2023–24)" width="300" style="display: block; margin: 10px auto;">
 
-### There's a horizontal rule below this.
+Received the Academic Excellence Award in my final year of B.A. Economics at Christ College, Pune, with a CGPA of 9.10.
 
-* * *
+---
 
-### Here is an unordered list:
+#### Academic Excellence Award (2021–22)
+<img src="images/FYBA_Academic Topper.jpg" alt="Academic Excellence Award (2021–22)" width="300" style="display: block; margin: 10px auto;">
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Received the Academic Excellence Award in the first year of B.A. Economics at Christ College, Pune, with a CGPA of 9.25.
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### Excellence Award: InSync Best Dancer
+<img src="images/Best_Dancer_Excellence_Award.jpg" alt="Excellence Award: InSync Best Dancer" width="300" style="display: block; margin: 10px auto;">
 
-### And a nested list:
+Recognized as the Best Dancer by the InSync Dance Club for exceptional performance and contribution, showcasing creativity, discipline, and passion for the art.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
-### Small image
+#### Y20 Fest (DY Patil University): Group Dance – Runners Up
+<img src="images/Y20_GroupDance1stRunnerUp.jpg" alt="Y20 Fest (DY Patil University): Group Dance – Runners Up" width="300" style="display: block; margin: 10px auto;">
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Achieved Runners Up position in the Group Dance event at the Y20 Fest organized by DY Patil University, reflecting teamwork, creativity, and performance excellence.
 
-### Large image
+---
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#### SCMC's Satrang: Solo Dance (Western) – 2nd Runner Up
+<img src="images/SCMC_Satrang.jpg" alt="SCMC's Satrang: Solo Dance (Western) – 2nd Runner Up" width="300" style="display: block; margin: 10px auto;">
 
+Secured 2nd Runner Up position in the Western Solo Dance category at SCMC's Satrang cultural festival, highlighting versatility and stage presence in competitive dance.
 
-### Definition lists can be used with HTML syntax.
+### Certifications & Professional Development
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+#### Introduction to Data Science in Python -
+**University of Michigan** - Completed comprehensive coursework in Python programming for data science, covering data manipulation, analysis, and visualization using pandas, NumPy, and matplotlib.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+#### Social Media Data Analytics -
+**University of Washington** - Specialized training in analyzing social media data patterns, sentiment analysis, and extracting insights from social platforms using advanced analytics techniques.
+## Skills & Technologies
 
-```
-The final element.
-```
+- **Programming:** Python, R, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Data Analysis:** Pandas, NumPy, Statistical Modeling
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Tools:** Jupyter Notebook, Google Colab
+
+## About Me
+
+I'm a data enthusiast with a passion for uncovering insights from complex datasets. My work spans various domains including:
+
+- **Development Economics:** Analyzing global socioeconomic patterns
+- **Urban Analytics:** Understanding metropolitan trends and patterns  
+- **Sports Analytics:** Applying advanced ML techniques to racing predictions
+
+## Get In Touch
+
+- 📧 **GitHub:** [@aarizkhandata](https://github.com/aarizkhandata)
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aariz-aslam-khan-3a1381339/)
+- 📊 **Portfolio:** Explore my repositories above
+
+---
+
+*This site is built with GitHub Pages and the Cayman theme. Feel free to explore my projects and reach out for collaborations!*
+
+## Recent Updates
+
+- **Ongoing:** Working on physics-informed machine learning for F1 predictions
+- **Recent:** Completed clustering analysis of global development indicators
+
+> "Data is the new oil, but analytics is the engine that transforms it into insights."
