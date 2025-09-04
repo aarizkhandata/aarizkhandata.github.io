@@ -13,22 +13,22 @@ Welcome to my GitHub Pages site! I'm passionate about data analytics, machine le
 ### Quick Navigation
 
 <div class="home-nav-grid">
-  <a href="{{ '/projects.html' | relative_url }}" class="home-nav-card">
+  <a href="{{ '/projects' | relative_url }}" class="home-nav-card">
     <h3>📊 Projects</h3>
     <p>Explore my data science projects including clustering analysis, urban analytics, and physics-informed ML for F1 predictions.</p>
   </a>
   
-  <a href="{{ '/achievements.html' | relative_url }}" class="home-nav-card">
+  <a href="{{ '/achievements' | relative_url }}" class="home-nav-card">
     <h3>🏆 Achievements</h3>
     <p>Academic excellence awards, dance achievements, and professional certifications in data science.</p>
   </a>
   
-  <a href="{{ '/cv.html' | relative_url }}" class="home-nav-card">
+  <a href="{{ '/cv' | relative_url }}" class="home-nav-card">
     <h3>📄 CV</h3>
     <p>Complete curriculum vitae with education, skills, projects, and professional development.</p>
   </a>
   
-  <a href="{{ '/about.html' | relative_url }}" class="home-nav-card">
+  <a href="{{ '/about' | relative_url }}" class="home-nav-card">
     <h3>👨‍💻 About Me</h3>
     <p>Learn more about my background, interests, and what drives my passion for data analytics.</p>
   </a>
