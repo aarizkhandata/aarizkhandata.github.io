@@ -2,3 +2,102 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+// Tab navigation styles
+.main-nav {
+  background: linear-gradient(120deg, #155799, #159957);
+  border-bottom: 2px solid rgba(255,255,255,0.2);
+  margin-bottom: 2rem;
+}
+
+.nav-container {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-tab {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  padding: 1rem 1.5rem;
+  display: inline-block;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border-bottom: 3px solid transparent;
+  margin: 0 0.5rem;
+  
+  &:hover {
+    color: #fff;
+    background-color: rgba(255,255,255,0.1);
+    border-bottom-color: rgba(255,255,255,0.5);
+  }
+  
+  &.active {
+    color: #fff;
+    background-color: rgba(255,255,255,0.15);
+    border-bottom-color: #fff;
+  }
+}
+
+// Home page navigation cards
+.home-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.home-nav-card {
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    text-decoration: none;
+    color: #495057;
+    background: linear-gradient(135deg, #e9ecef, #dee2e6);
+  }
+  
+  h3 {
+    margin: 0 0 0.5rem 0;
+    color: #155799;
+    font-size: 1.2rem;
+  }
+  
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .nav-container {
+    padding: 0 1rem;
+  }
+  
+  .nav-tab {
+    padding: 0.8rem 1rem;
+    margin: 0 0.2rem;
+    font-size: 0.9rem;
+  }
+  
+  .home-nav-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .home-nav-card {
+    padding: 1rem;
+  }
+}
