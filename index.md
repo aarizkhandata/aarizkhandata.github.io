@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<img src="images/Aariz_Website.jpg" alt="Aariz Khan" width="200" style="border: 3px solid #159957; border-radius: 10px; display: block; margin: 0 auto 20px auto;">
-
+<img src="images/Aariz_Website.jpg" alt="Aariz Khan" width="200" style="display: block; margin: 0 auto 20px auto;">
 ## Data Analytics Enthusiast
 
 Welcome to my GitHub Pages site! I'm passionate about data analytics, machine learning, and extracting insights from complex datasets.
