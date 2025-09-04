@@ -27,6 +27,16 @@
       {% endif %}
     </header>
 
+    <nav class="main-nav">
+      <div class="nav-container">
+        <a href="{{ '/' | relative_url }}" class="nav-tab {% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="{{ '/projects.html' | relative_url }}" class="nav-tab {% if page.url == '/projects.html' %}active{% endif %}">Projects</a>
+        <a href="{{ '/achievements.html' | relative_url }}" class="nav-tab {% if page.url == '/achievements.html' %}active{% endif %}">Achievements</a>
+        <a href="{{ '/cv.html' | relative_url }}" class="nav-tab {% if page.url == '/cv.html' %}active{% endif %}">CV</a>
+        <a href="{{ '/about.html' | relative_url }}" class="nav-tab {% if page.url == '/about.html' %}active{% endif %}">About Me</a>
+      </div>
+    </nav>
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 
