@@ -36,7 +36,7 @@ An innovative approach to Formula 1 race prediction by combining traditional mac
 
 ---
 
-### 📊 Financial News Market Analysis
+## Financial News Market Analysis
 **[View Repository](https://github.com/aarizkhandata/Financial-News-Market-Analysis)**
 
 A data analytics project exploring the correlation between financial news topics and market volatility.
