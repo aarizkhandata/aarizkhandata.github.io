@@ -17,15 +17,14 @@ title: CV
 - **CGPA:** 9.10 (Final Year), 9.25 (First Year)
 - **Academic Excellence Awards:** 2021-22, 2023-24
 
-
 ---
 
 ## Technical Skills
 
 ### Programming Languages
-- **Python** - Advanced (pandas, NumPy, scikit-learn, TensorFlow, PyTorch)
-- **R** - Intermediate (statistical analysis, data visualization)
-- **SQL** - Intermediate (data querying and manipulation)
+- **Python** – Advanced (pandas, NumPy, scikit-learn, TensorFlow, PyTorch)
+- **R** – Intermediate (statistical analysis, data visualization)
+- **SQL** – Intermediate (data querying and manipulation)
 
 ### Data Science & Analytics
 - **Machine Learning:** Supervised/Unsupervised Learning, Neural Networks, Physics-Informed ML
@@ -38,6 +37,7 @@ title: CV
 - Urban Analytics and Fuel Consumption Patterns
 - Sports Analytics and Predictive Modeling
 - Social Media Data Analytics
+- Financial News & Market Volatility Analysis
 
 ---
 
@@ -45,14 +45,14 @@ title: CV
 
 ### Certifications
 
-**Introduction to Data Science in Python**
-*University of Michigan*
+**Introduction to Data Science in Python**  
+*University of Michigan*  
 - Comprehensive coursework in Python programming for data science
 - Data manipulation, analysis, and visualization techniques
 - Hands-on experience with pandas, NumPy, and matplotlib
 
-**Social Media Data Analytics**
-*University of Washington*
+**Social Media Data Analytics**  
+*University of Washington*  
 - Specialized training in social media data analysis
 - Sentiment analysis and social platform insights
 - Advanced analytics techniques for social data
@@ -76,18 +76,23 @@ title: CV
 - Integration of racing physics with data-driven predictions
 - **Technologies:** Physics-Informed Neural Networks (PINNs), Machine Learning
 
+### Financial News Market Analysis
+- Explored correlation between financial news topics and market volatility
+- Analyzed news sentiment and its impact on financial markets
+- **Technologies:** Jupyter Notebook, Data Analytics
+
 ---
 
 ## Awards & Recognition
 
 ### Academic Achievement
-- **Academic Excellence Award** (2023-24) - CGPA: 9.10
-- **Academic Excellence Award** (2021-22) - CGPA: 9.25
+- **Academic Excellence Award** (2023-24) – CGPA: 9.10
+- **Academic Excellence Award** (2021-22) – CGPA: 9.25
 
 ### Extracurricular Excellence
-- **Excellence Award: InSync Best Dancer** - InSync Dance Club
-- **Y20 Fest Group Dance - Runners Up** - DY Patil University
-- **SCMC's Satrang Solo Dance (Western) - 2nd Runner Up**
+- **Excellence Award: InSync Best Dancer** – InSync Dance Club
+- **Y20 Fest Group Dance – Runners Up** – DY Patil University
+- **SCMC's Satrang Solo Dance (Western) – 2nd Runner Up**
 
 ---
 
@@ -99,4 +104,4 @@ title: CV
 
 ---
 
-*Last updated: 2024*
+*Last updated: 2025*
