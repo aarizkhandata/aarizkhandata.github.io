@@ -16,7 +16,7 @@ title: CV
 **Christ College, Pune** | 2021-2024
 - **CGPA:** 9.10 (Final Year), 9.25 (First Year)
 - **Academic Excellence Awards:** 2021-22, 2023-24
-- Focus on quantitative analysis and economic modeling
+
 
 ---
 
